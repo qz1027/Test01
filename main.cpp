@@ -6,5 +6,7 @@ int main(){
 
     cout << "退订" << endl;
 
+    cout << "投诉" << endl;
+
     return 0;
 }
